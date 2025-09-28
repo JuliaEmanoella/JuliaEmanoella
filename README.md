@@ -14,15 +14,7 @@ No momento, estou em uma **imersão de aprendizado**, focando em **JavaScript, M
 
 ---
 
-### 🚀 O que estou construindo agora  
-- Projetos práticos de front-end para aplicar conceitos de layout e responsividade  
-- Experimentos com banco de dados MySQL  
-- Repositórios que registram minha evolução no aprendizado  
-
----
-
 ### 🌸 Fun facts sobre mim  
 🐾 Tenho dois gatos que são minha companhia diária  
 🏋️‍♀️ Academia faz parte da minha rotina e fortalece minha disciplina  
-😂 Tenho risadas fáceis e acredito no poder da positividade  
 💧 Minha garrafinha de água sempre me acompanha — marca registrada!  
