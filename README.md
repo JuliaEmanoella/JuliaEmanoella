@@ -14,7 +14,7 @@ No momento, estou em uma **imersão de aprendizado**, focando em **JavaScript, M
 
 ---
 
-### 🌸 Fun facts sobre mim  
+### 🌸 Fun facts 
 🐾 Tenho dois gatos que são minha companhia diária  
 🏋️‍♀️ Academia faz parte da minha rotina e fortalece minha disciplina  
 💧 Minha garrafinha de água sempre me acompanha — marca registrada!  
